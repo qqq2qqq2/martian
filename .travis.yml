@@ -1,5 +1,5 @@
 # Allow Travis to use container based infrastructure
-sudo: false
+sudo: true
 language: go
 
 go:
